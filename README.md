@@ -8,4 +8,6 @@ An API lets two pieces of software talk to each other For example you have your 
 
 ## REST APIs (REpresentational State)
 * REST APIs are used to interact with web services, for example, the application that you call through the internet.
-* Rule: 
+* REST API over HTTP
+![image](https://user-images.githubusercontent.com/62194058/136872635-42904e00-2cc8-429f-b970-5741ee1f6890.png)
+
